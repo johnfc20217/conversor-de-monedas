@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba85b19e-7a92-4144-8e8c-11d1be3037b6" name="Changes" comment="conversor de modedas creacion de clases, main&#10;estructura proyecto, importar maven gson" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2nRbjcryZ2T9ZOCn32Qxlr939Cg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Principal.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/ORACLE-2024/JAVA ALURA/HOMEWORK/CM/cmotrosr",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba85b19e-7a92-4144-8e8c-11d1be3037b6" name="Changes" comment="" />
+      <created>1728938971689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728938971689</updated>
+    </task>
+    <task id="LOCAL-00001" summary="conversor de modedas creacion de clases, main&#10;estructura proyecto, importar maven gson">
+      <option name="closed" value="true" />
+      <created>1728949375980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728949375980</updated>
+    </task>
+    <task id="LOCAL-00002" summary="conversor de modedas creacion de clases, main&#10;estructura proyecto, importar maven gson">
+      <option name="closed" value="true" />
+      <created>1728949440079</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728949440079</updated>
+    </task>
+    <task id="LOCAL-00003" summary="conversor de modedas creacion de clases, main&#10;estructura proyecto, importar maven gson">
+      <option name="closed" value="true" />
+      <created>1728949498785</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728949498785</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="conversor de modedas creacion de clases, main&#10;estructura proyecto, importar maven gson" />
+    <option name="LAST_COMMIT_MESSAGE" value="conversor de modedas creacion de clases, main&#10;estructura proyecto, importar maven gson" />
+  </component>
+</project>
