@@ -1,1 +1,1 @@
-readme
+correcion de errrores, perticion api
